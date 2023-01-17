@@ -1,7 +1,7 @@
 
 pragma solidity ^0.5.0;
 
-contract IdentityVerification {
+contract userVerif {
     // Mapping of user addresses to their identity information
     mapping (address => User) public users;
     
